@@ -2,7 +2,7 @@
 
 1 - Using OpenJDK v.21.0.2 available here: 
 ```
-https://jdk.java.net/![image](https://github.com/simoninmath/Java/assets/125363163/36c26338-2373-4024-be28-0a13ac2ecbb4)
+https://jdk.java.net/
 ```
 
 2 - Check file integrity from sha 256 button and CLI: 
